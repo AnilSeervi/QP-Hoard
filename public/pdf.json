@@ -1,0 +1,685 @@
+{
+  "bca": [
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Digital Electronics",
+      "path": "Digital-Electronics-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Digital Electronics",
+      "path": "Digital-Electronics-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Discrete Mathematics",
+      "path": "Discrete-Mathematics-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Discrete Mathematics",
+      "path": "Discrete-Mathematics-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Discrete Mathematics",
+      "path": "Discrete-Mathematics-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Environment and Public Health",
+      "path": "Environment-and-Public-Health-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Problem Solving Techniques Using C",
+      "path": "Problem-Solving-Techniques-Using-C-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Problem Solving Techniques Using C",
+      "path": "Problem-Solving-Techniques-Using-C-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Problem Solving Techniques Using C",
+      "path": "Problem-Solving-Techniques-Using-C-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Computer Organizations",
+      "path": "Computer-Organizations-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Data Structures",
+      "path": "Data-Structures-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Data Structures",
+      "path": "Data-Structures-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Database Management System",
+      "path": "Database-Management-System-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Database Management Systems",
+      "path": "Database-Management-Systems-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Indian Constitution and Human Rights",
+      "path": "Indian-Constitution-and-Human-Rights-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Numerical and Statistical Methods",
+      "path": "Numerical-and-Statistical-Methods-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Numerical and Statistical Methods",
+      "path": "Numerical-and-Statistical-Methods-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Operating System",
+      "path": "Operating-System-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Operating System",
+      "path": "Operating-System-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Object Oriented Programming Using C++",
+      "path": "Object-Oriented-Programming-Using-C++-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Object Oriented Programming Using C++",
+      "path": "Object-Oriented-Programming-Using-C++-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Financial Accounting and Management",
+      "path": "Financial-Accounting-and-Management-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Financial Accounting and Management",
+      "path": "Financial-Accounting-and-Management-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Operation Research",
+      "path": "Operation-Research-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Operations Research",
+      "path": "Operations-Research-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Unix Shell Programming",
+      "path": "Unix-Shell-Programming-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Unix Shell Programming",
+      "path": "Unix-Shell-Programming-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Visual Programming",
+      "path": "Visual-Programming-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Visual Programming",
+      "path": "Visual-Programming-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Personality Development",
+      "path": "Personality-Development-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Banking and Finance",
+      "path": "Banking-and-Finance-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Banking and Finance",
+      "path": "Banking-and-Finance-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Computer Architecture",
+      "path": "Computer-Architecture-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Computer Architecture",
+      "path": "Computer-Architecture-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Computer Architecture",
+      "path": "Computer-Architecture-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Computer Architecture",
+      "path": "Computer-Architecture-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Data Communication and Networks",
+      "path": "Data-Communication-and-Networks-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Data Communication and Networks",
+      "path": "Data-Communication-and-Networks-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Data Communication and Networks",
+      "path": "Data-Communication-and-Networks-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Data Communication and Networks",
+      "path": "Data-Communication-and-Networks-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Java Programming",
+      "path": "Java-Programming-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Java Programming",
+      "path": "Java-Programming-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Java Programming",
+      "path": "Java-Programming-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Java Programming",
+      "path": "Java-Programming-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Microprocessor and Assembly Language",
+      "path": "Microprocessor-and-Assembly-Language-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Microprocessor and Assembly Language",
+      "path": "Microprocessor-and-Assembly-Language-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Microprocessor and Assembly Language",
+      "path": "Microprocessor-and-Assembly-Language-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Software Engineering",
+      "path": "Software-Engineering-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Software Engineering",
+      "path": "Software-Engineering-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-5",
+      "year": 2021,
+      "subject": "Software Engineering",
+      "path": "Software-Engineering-2021.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Computer Application and Information Technology",
+      "path": "Computer-Application-and-Information-Technology-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Computer Applications and Information Technology",
+      "path": "Computer-Applications-and-Information-Technology-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Cryptography and Network Security",
+      "path": "Cryptography-and-Network-Security-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Cryptography and Network Security",
+      "path": "Cryptography-and-Network-Security-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Cryptography and Network Security",
+      "path": "Cryptography-and-Network-Security-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "System Programming",
+      "path": "System-Programming-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "System Programming",
+      "path": "System-Programming-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "System Programming",
+      "path": "System-Programming-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Theory of Computation",
+      "path": "Theory-of-Computation-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Web Programming",
+      "path": "Web-Programming-2017.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Web Programming",
+      "path": "Web-Programming-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Web Programming",
+      "path": "Web-Programming-2019.pdf"
+    }
+  ],
+  "bba": [],
+  "bcom": []
+}
