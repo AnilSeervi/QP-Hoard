@@ -1,13 +1,12 @@
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { createMuiTheme, ThemeProvider, Typography } from "@material-ui/core";
 import Container from "@material-ui/core/Container";
-import Bba from "./router/Bba";
-import Bca from "./router/Bca";
-import Bcom from "./router/Bcom";
 import Home from "./router/Home";
 import Navbar from "./components/Navbar";
 import BottomNav from "./components/BottomNav";
 import { useState } from "react";
+import useFetch from "./useFetch";
+import Render from "./router/Render";
 
 const theme = createMuiTheme({
   palette: {
@@ -26,6 +25,7 @@ const theme = createMuiTheme({
 });
 
 function App() {
+  const { data } = useFetch();
   const logo = "QP Hoard";
   const [value, setValue] = useState(0);
   return (
@@ -37,14 +37,14 @@ function App() {
             <Route exact path="/">
               <Home />
             </Route>
-            <Route path="/BCA">
-              <Bca value={value} />
+            <Route path="/bca">
+              {data && <Render value={value} data={data.bca} />}
             </Route>
-            <Route path="/BCOM">
-              <Bcom value={value} />
+            <Route path="/bcom">
+              {data && <Render value={value} data={data.bcom} />}
             </Route>
-            <Route path="/BBA">
-              <Bba value={value} />
+            <Route path="/bba">
+              {data && <Render value={value} data={data.bba} />}
             </Route>
             <Route path="*">
               <main className="main-cont">
