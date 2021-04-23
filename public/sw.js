@@ -58,8 +58,8 @@ self.addEventListener("fetch", (evt) => {
         cacheRes ||
         fetch(evt.request).then(async (fetchRes) => {
           const cache = await caches.open(dynamicCacheName);
-          // if (evt.request.url.indexOf(".pdf") === -1)
-          cache.put(evt.request.url, fetchRes.clone());
+          if (evt.request.url.indexOf("http") !== -1)
+            cache.put(evt.request.url, fetchRes.clone());
           limitCacheSize(dynamicCacheName, 20);
           return fetchRes;
         })
