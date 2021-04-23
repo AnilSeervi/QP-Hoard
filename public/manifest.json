@@ -8,12 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "/icons/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "/icons/mask192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -21,5 +27,28 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#651fff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Download for BCA",
+      "short_name": "BCA",
+      "description": "Download question papers for BCA",
+      "url": "/bca",
+      "icons": [{ "src": "/icons/code192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Download for BBA",
+      "short_name": "BBA",
+      "description": "Download question papers for BBA",
+      "url": "/bba",
+      "icons": [{ "src": "/icons/trending192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Download for BCOM",
+      "short_name": "BCOM",
+      "description": "Download question papers for BCOM",
+      "url": "/bcom",
+      "icons": [{ "src": "/icons/banking192.png", "sizes": "192x192" }]
+    }
+  ]
 }

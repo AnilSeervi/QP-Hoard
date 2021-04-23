@@ -14,12 +14,22 @@
       name="description"
       content="Web App for hoarding question papers for undergrads"
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/icons/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>QP Hoard</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("./sw.js")
+            .then((reg) => console.log("service worker registered", reg.scope))
+            .catch((err) => console.log("service worker not registered", err));
+        });
+      }
+    </script>
   </body>
 </html>
