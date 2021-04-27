@@ -680,6 +680,1989 @@
       "path": "Web-Programming-2019.pdf"
     }
   ],
-  "bba": [],
-  "bcom": []
+  "bba": [
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Business Organization and Environment",
+      "path": "Business-Organization-and-Environment-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Business Organisation and Environment",
+      "path": "Business-Organisation-and-Environment-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Fundamentals of Accounting",
+      "path": "Fundamentals-of-Accounting-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Fundamentals of Accounting",
+      "path": "Fundamentals-of-Accounting-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Management Process",
+      "path": "Management-Process-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Management Process",
+      "path": "Management-Process-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Quantitative Methods for Business I",
+      "path": "Quantitative-Methods-for-Business-I-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Quantitative Methods for Business I",
+      "path": "Quantitative-Methods-for-Business-I-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Corporate Administration",
+      "path": "Corporate-Administration-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Principles of Management",
+      "path": "Principles-of-Management-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Production and Operation Management",
+      "path": "Production-and-Operation-Management-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Quantitative Methods for Business II",
+      "path": "Quantitative-Methods-for-Business-II-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Quantitative Methods for Business II",
+      "path": "Quantitative-Methods-for-Business-II-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Quantitative Methods for Business II",
+      "path": "Quantitative-Methods-for-Business-II-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Organisational Behaviour",
+      "path": "Organisational-Behaviour-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Organisational Behaviour",
+      "path": "Organisational-Behaviour-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Organizational Behaviour",
+      "path": "Organizational-Behaviour-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Production and Operation Management",
+      "path": "Production-and-Operation-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Production and Operation Management",
+      "path": "Production-and-Operation-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Production and Operations Management",
+      "path": "Production-and-Operations-Management-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Environment and Public Health",
+      "path": "Environment-and-Public-Health-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Environment and Public Health",
+      "path": "Environment-and-Public-Health-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Soft Skills for Business",
+      "path": "Soft-Skills-for-Business-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Soft Skills for Business",
+      "path": "Soft-Skills-for-Business-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Human Resource Management",
+      "path": "Human-Resource-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Human Resource Management",
+      "path": "Human-Resource-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Human Resource Management",
+      "path": "Human-Resource-Management-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Corporate Accounting",
+      "path": "Corporate-Accounting-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Corporate Accounting",
+      "path": "Corporate-Accounting-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Corporate Environment",
+      "path": "Corporate-Environment-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Corporate Environment",
+      "path": "Corporate-Environment-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Kannada II",
+      "path": "Kannada-II-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Service Management",
+      "path": "Service-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Service Management",
+      "path": "Service-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Marketing Management",
+      "path": "Marketing-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Marketing Management",
+      "path": "Marketing-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Personality Development",
+      "path": "Personality-Development-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Personality Development",
+      "path": "Personality-Development-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Banking Regulations and Operations",
+      "path": "Banking-Regulations-and-Operations-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Banking Regulations and Operations",
+      "path": "Banking-Regulations-and-Operations-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Cost Accounting",
+      "path": "Cost-Accounting-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Cost Accounting",
+      "path": "Cost-Accounting-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Financial Management",
+      "path": "Financial-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Financial Management",
+      "path": "Financial-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Business Research Methods",
+      "path": "Business-Research-Methods-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Business Research Methods",
+      "path": "Business-Research-Methods-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "All Papers",
+      "path": "All-Papers-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Advanced Financial Management",
+      "path": "Advanced-Financial-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Advanced Financial Management",
+      "path": "Advanced-Financial-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Computer Application in Business",
+      "path": "Computer-Application-in-Business-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Computer Application in Business",
+      "path": "Computer-Application-in-Business-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Entrepreneurial Management",
+      "path": "Entrepreneurial-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Entrepreneurial Management",
+      "path": "Entrepreneurial-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Investment Management",
+      "path": "Investment-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Investment Management",
+      "path": "Investment-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Consumer Behaviour",
+      "path": "Consumer-Behaviour-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Consumer Behaviour",
+      "path": "Consumer-Behaviour-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Stratigic Human Resource Management",
+      "path": "Stratigic-Human-Resource-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Financial Markets and Services",
+      "path": "Financial-Markets-and-Services-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Financial Markets and Services",
+      "path": "Financial-Markets-and-Services-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Employee Welfare and Social Security",
+      "path": "Employee-Welfare-and-Social-Security-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Advertising and Media Management",
+      "path": "Advertising-and-Media-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Advertising and Media Management",
+      "path": "Advertising-and-Media-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Brand Management",
+      "path": "Brand-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Brand Management",
+      "path": "Brand-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "E-Business",
+      "path": "E-Business-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "E-Business",
+      "path": "E-Business-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Income Tax",
+      "path": "Income-Tax-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Income Tax",
+      "path": "Income-Tax-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "International Business",
+      "path": "International-Business-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "International Business",
+      "path": "International-Business-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "International Finance",
+      "path": "International-Finance-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "International Finance",
+      "path": "International-Finance-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Service Management",
+      "path": "Service-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Strategic Management",
+      "path": "Strategic-Management-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Strategic Management",
+      "path": "Strategic-Management-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Creativity and Innovation",
+      "path": "Creativity-and-Innovation-2017.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Creativity and Innovations",
+      "path": "Creativity-and-Innovations-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Organisational Change and Development",
+      "path": "Organisational-Change-and-Development-2018.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "All Papers",
+      "path": "All-Papers-2019.pdf"
+    }
+  ],
+  "bcom": [
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Corporate Administration",
+      "path": "Corporate-Administration-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Corporate Administration",
+      "path": "Corporate-Administration-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Methods and Techniques for Business Decisions",
+      "path": "Methods-and-Techniques-for-Business-Decisions-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Methods and Techniques for Business Decisions",
+      "path": "Methods-and-Techniques-for-Business-Decisions-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Marketing and Services Management",
+      "path": "Marketing-and-Services-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Marketing and Services Management",
+      "path": "Marketing-and-Services-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Indian Financial System",
+      "path": "Indian-Financial-System-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Indian Financial System",
+      "path": "Indian-Financial-System-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Indian Constitution and Human Rights",
+      "path": "Indian-Constitution-and-Human-Rights-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2017,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2018,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Financial Accounting",
+      "path": "Financial-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Corporate Structure and Administration",
+      "path": "Corporate-Structure-and-Administration-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-1",
+      "year": 2019,
+      "subject": "Indian Financial Institutions and Markets",
+      "path": "Indian-Financial-Institutions-and-Markets-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Advanced Financial Accounting",
+      "path": "Advanced-Financial-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Advanced Financial Accounting",
+      "path": "Advanced-Financial-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Advanced Financial Accounting",
+      "path": "Advanced-Financial-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Quantitative Analysis for Business Decisions I",
+      "path": "Quantitative-Analysis-for-Business-Decisions-I-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Quantitative Analysis for Business Decisions I",
+      "path": "Quantitative-Analysis-for-Business-Decisions-I-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Quantitative Analysis for Business Decisions I",
+      "path": "Quantitative-Analysis-for-Business-Decisions-I-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Environment and Public Health",
+      "path": "Environment-and-Public-Health-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Environment and Public Health",
+      "path": "Environment-and-Public-Health-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2017,
+      "subject": "Banking Law and Operations",
+      "path": "Banking-Law-and-Operations-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2018,
+      "subject": "Banking Law and Operations",
+      "path": "Banking-Law-and-Operations-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-2",
+      "year": 2019,
+      "subject": "Banking Law and Operation",
+      "path": "Banking-Law-and-Operation-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Additional English",
+      "path": "Additional-English-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Hindi",
+      "path": "Hindi-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Science and Society",
+      "path": "Science-and-Society-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Quantitative Analysis for Business Decisions II",
+      "path": "Quantitative-Analysis-for-Business-Decisions-II-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Quantitative Analysis for Business Decisions II",
+      "path": "Quantitative-Analysis-for-Business-Decisions-II-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Quantitative Analysis for Business Decisions II",
+      "path": "Quantitative-Analysis-for-Business-Decisions-II-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Public Relations and Corporate Communication",
+      "path": "Public-Relations-and-Corporate-Communication-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Public Relations and Corporate Communication",
+      "path": "Public-Relations-and-Corporate-Communication-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Public Relations and Corporate Communication",
+      "path": "Public-Relations-and-Corporate-Communication-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Financial Management",
+      "path": "Financial-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Financial Management",
+      "path": "Financial-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Financial Management",
+      "path": "Financial-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2017,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Business Ethics",
+      "path": "Business-Ethics-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2018,
+      "subject": "Corporate Accounting",
+      "path": "Corporate-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-3",
+      "year": 2019,
+      "subject": "Corporate Accounting",
+      "path": "Corporate-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Advanced Corporate Accounting",
+      "path": "Advanced-Corporate-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Advanced Corporate Accounting",
+      "path": "Advanced-Corporate-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Advanced Corporate Accounting",
+      "path": "Advanced-Corporate-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "English",
+      "path": "English-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "English",
+      "path": "English-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "English",
+      "path": "English-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Hindi",
+      "path": "Hindi-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Hindi",
+      "path": "Hindi-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Kannada",
+      "path": "Kannada-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Kannada",
+      "path": "Kannada-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Kannada",
+      "path": "Kannada-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Sanskrit",
+      "path": "Sanskrit-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Principles of Event Management",
+      "path": "Principles-of-Event-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Principles of Event Management",
+      "path": "Principles-of-Event-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Principles of Event Management",
+      "path": "Principles-of-Event-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Personality Development",
+      "path": "Personality-Development-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Personality Development",
+      "path": "Personality-Development-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "E-Business and Accounting",
+      "path": "E-Business-and-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "E-Business and Accounting",
+      "path": "E-Business-and-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "E-Business and Accounting",
+      "path": "E-Business-and-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2017,
+      "subject": "Cost Accounting",
+      "path": "Cost-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2018,
+      "subject": "Cost Accounting",
+      "path": "Cost-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-4",
+      "year": 2019,
+      "subject": "Cost Accounting",
+      "path": "Cost-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Advanced Accounting",
+      "path": "Advanced-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Advanced Accounting",
+      "path": "Advanced-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Advanced Accounting",
+      "path": "Advanced-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Costing Methods",
+      "path": "Costing-Methods-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Costing Methods",
+      "path": "Costing-Methods-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Costing Methods",
+      "path": "Costing-Methods-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "International Financial Management",
+      "path": "International-Financial-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "International Financial Management",
+      "path": "International-Financial-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "International Financial Management",
+      "path": "International-Financial-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "International Financial Reporting Standards",
+      "path": "International-Financial-Reporting-Standards-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "International Financial Reporting Standards",
+      "path": "International-Financial-Reporting-Standards-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "International Financial Reporting Standards",
+      "path": "International-Financial-Reporting-Standards-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Income Tax I",
+      "path": "Income-Tax-I-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Income Tax I",
+      "path": "Income-Tax-I-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Income Tax I",
+      "path": "Income-Tax-I-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Goods and Service Tax",
+      "path": "Goods-and-Service-Tax-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Goods and Services Tax",
+      "path": "Goods-and-Services-Tax-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Goods and Services Tax",
+      "path": "Goods-and-Services-Tax-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Entrepreneurship Management",
+      "path": "Entrepreneurship-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2019,
+      "subject": "Entrepreneurship Development",
+      "path": "Entrepreneurship-Development-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2018,
+      "subject": "Entrepreneurship Development",
+      "path": "Entrepreneurship-Development-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-5",
+      "year": 2017,
+      "subject": "Culture Diversity and Society",
+      "path": "Culture-Diversity-and-Society-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Security Analysis and Portfolio Management",
+      "path": "Security-Analysis-and-Portfolio-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Principles and Practice of Auditing",
+      "path": "Principles-and-Practice-of-Auditing-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Principles and Practice of Auditing",
+      "path": "Principles-and-Practice-of-Auditing-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Principles and Practice of Auditing",
+      "path": "Principles-and-Practice-of-Auditing-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Business Taxation II",
+      "path": "Business-Taxation-II-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Business Taxation",
+      "path": "Business-Taxation-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Business Taxation",
+      "path": "Business-Taxation-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Income Tax II",
+      "path": "Income-Tax-II-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Income Tax II",
+      "path": "Income-Tax-II-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Income Tax II",
+      "path": "Income-Tax-II-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Creativity and Innovation",
+      "path": "Creativity-and-Innovation-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Cost Management",
+      "path": "Cost-Management-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Cost Management",
+      "path": "Cost-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Cost Management",
+      "path": "Cost-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2017,
+      "subject": "Corporate Financial Policy",
+      "path": "Corporate-Financial-Policy-2017.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "International Auditing and Assurance",
+      "path": "International-Auditing-and-Assurance-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "International Auditing and Assurance",
+      "path": "International-Auditing-and-Assurance-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Performance Management",
+      "path": "Performance-Management-2018.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Performance Management",
+      "path": "Performance-Management-2019.pdf"
+    }
+  ]
 }

@@ -1,12 +1,9 @@
-import { useLocation } from "react-router";
 import Accord from "../components/Accord";
 import TabPanel from "../components/TabPanel";
 
 const Render = ({ value, data }) => {
-  const location = useLocation();
   return (
     <main className="main-cont">
-      {location.pathname.toLowerCase() !== "/bca" && <p>Coming Soon</p>}
       <TabPanel value={value} index={0}>
         <Accord allData={data} sem="semester-1" />
       </TabPanel>
