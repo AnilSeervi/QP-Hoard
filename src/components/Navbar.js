@@ -20,7 +20,7 @@ const useStyles = makeStyles({
     marginRight: 10,
   },
 });
-const Navbar = ({ logo, value, setValue }) => {
+const Navbar = ({ logo }) => {
   const classes = useStyles();
   const history = useHistory();
   const location = useLocation();
@@ -37,9 +37,7 @@ const Navbar = ({ logo, value, setValue }) => {
           {logo}
         </Typography>
       </Toolbar>
-      {location.pathname !== "/" && (
-        <ScrollTabs value={value} setValue={setValue} />
-      )}
+      {location.pathname !== "/" && <ScrollTabs />}
     </AppBar>
   );
 };

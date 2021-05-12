@@ -1,7 +1,7 @@
+import { useEffect, useState } from "react";
 import { makeStyles } from "@material-ui/core";
 import BottomNavigation from "@material-ui/core/BottomNavigation";
 import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
-import { useEffect, useState } from "react";
 import CodeIcon from "@material-ui/icons/Code";
 import TrendingUpIcon from "@material-ui/icons/TrendingUp";
 import AccountBalanceIcon from "@material-ui/icons/AccountBalance";
@@ -18,7 +18,23 @@ const BottomNav = () => {
   const history = useHistory();
   const location = useLocation();
   useEffect(() => {
-    if (location.pathname === "/") setValue(null);
+    switch (location.pathname) {
+      case "/":
+        setValue(null);
+        break;
+      case "/bba":
+        setValue(0);
+        break;
+      case "/bca":
+        setValue(1);
+        break;
+      case "/bcom":
+        setValue(2);
+        break;
+      default:
+        setValue(null);
+        break;
+    }
   }, [location.pathname]);
   return (
     <BottomNavigation

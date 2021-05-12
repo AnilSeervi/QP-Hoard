@@ -1,6 +1,9 @@
-const TabPanel = (props) => {
-  const { children, value, index, ...other } = props;
+import { useContext } from "react";
+import { valueContext } from "../App";
 
+const TabPanel = (props) => {
+  const { children, index, ...other } = props;
+  const { value } = useContext(valueContext);
   return (
     <div
       role="tabpanel"

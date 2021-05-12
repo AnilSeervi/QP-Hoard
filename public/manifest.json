@@ -28,23 +28,24 @@
   "display": "standalone",
   "theme_color": "#651fff",
   "background_color": "#ffffff",
+  "orientation": "portrait-primary",
   "shortcuts": [
     {
-      "name": "Download for BCA",
+      "name": "BCA",
       "short_name": "BCA",
       "description": "Download question papers for BCA",
       "url": "/bca",
       "icons": [{ "src": "/icons/code192.png", "sizes": "192x192" }]
     },
     {
-      "name": "Download for BBA",
+      "name": "BBA",
       "short_name": "BBA",
       "description": "Download question papers for BBA",
       "url": "/bba",
       "icons": [{ "src": "/icons/trending192.png", "sizes": "192x192" }]
     },
     {
-      "name": "Download for BCOM",
+      "name": "BCOM",
       "short_name": "BCOM",
       "description": "Download question papers for BCOM",
       "url": "/bcom",

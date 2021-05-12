@@ -1,25 +1,25 @@
 import Accord from "../components/Accord";
 import TabPanel from "../components/TabPanel";
 
-const Render = ({ value, data }) => {
+const Render = ({ data }) => {
   return (
     <main className="main-cont">
-      <TabPanel value={value} index={0}>
+      <TabPanel index={0}>
         <Accord allData={data} sem="semester-1" />
       </TabPanel>
-      <TabPanel value={value} index={1}>
+      <TabPanel index={1}>
         <Accord allData={data} sem="semester-2" />
       </TabPanel>
-      <TabPanel value={value} index={2}>
+      <TabPanel index={2}>
         <Accord allData={data} sem="semester-3" />
       </TabPanel>
-      <TabPanel value={value} index={3}>
+      <TabPanel index={3}>
         <Accord allData={data} sem="semester-4" />
       </TabPanel>
-      <TabPanel value={value} index={4}>
+      <TabPanel index={4}>
         <Accord allData={data} sem="semester-5" />
       </TabPanel>
-      <TabPanel value={value} index={5}>
+      <TabPanel index={5}>
         <Accord allData={data} sem="semester-6" />
       </TabPanel>
     </main>
