@@ -4,52 +4,55 @@
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "sizes": "48x48"
     },
     {
-      "src": "/icons/logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/icons/mask192.png",
+      "src": "icons/logo192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "/icons/logo512.png",
+      "src": "icons/mask192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#651fff",
   "background_color": "#ffffff",
-  "orientation": "portrait-primary",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#651fff",
   "shortcuts": [
     {
       "name": "BCA",
-      "short_name": "BCA",
+      "short_name": "BCA Question Papers",
       "description": "Download question papers for BCA",
       "url": "/bca",
-      "icons": [{ "src": "/icons/code192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icons/code192.png", "sizes": "192x192" }]
     },
     {
       "name": "BBA",
-      "short_name": "BBA",
+      "short_name": "BBA Question Papers",
       "description": "Download question papers for BBA",
       "url": "/bba",
-      "icons": [{ "src": "/icons/trending192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icons/trending192.png", "sizes": "192x192" }]
     },
     {
       "name": "BCOM",
-      "short_name": "BCOM",
+      "short_name": "BCOM Question Papers",
       "description": "Download question papers for BCOM",
       "url": "/bcom",
-      "icons": [{ "src": "/icons/banking192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icons/banking192.png", "sizes": "192x192" }]
     }
-  ]
+  ],
+  "description": "A PWA App to download previous year question papers for undergrads.",
+  "orientation": "portrait"
 }
