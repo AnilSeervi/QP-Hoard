@@ -18,7 +18,8 @@ const useStyles = makeStyles({
 });
 const Accord = ({ allData, sem }) => {
   const data = allData.filter((d) => d.semester === sem);
-  const year = [...new Set(data.map((e) => e.year))];
+  const unsortedYear = [...new Set(data.map((e) => e.year))];
+  const year = unsortedYear.sort((a, b) => b - a);
   const classes = useStyles();
   return (
     <>
