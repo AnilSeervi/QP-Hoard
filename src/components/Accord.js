@@ -6,20 +6,29 @@ import Link from "@material-ui/core/Link";
 import Typography from "@material-ui/core/Typography";
 import PictureAsPdfRoundedIcon from "@material-ui/icons/PictureAsPdfRounded";
 import { makeStyles } from "@material-ui/core";
-const useStyles = makeStyles({
+import { useContext } from "react";
+import { appContext } from "../App";
+
+const useStyles = makeStyles((theme) => ({
   root: {
     flexDirection: "column",
+  },
+  dark: {
+    color: "#ffffff",
+  },
+  light: {
+    color: theme.palette.primary.main,
   },
   icons: {
     position: "relative",
     bottom: -5,
-    marginRight: 2,
+    marginRight: 8,
   },
-});
+}));
 const Accord = ({ allData, sem }) => {
   const data = allData.filter((d) => d.semester === sem);
-  const unsortedYear = [...new Set(data.map((e) => e.year))];
-  const year = unsortedYear.sort((a, b) => b - a);
+  const year = [...new Set(data.map((e) => e.year))].sort((a, b) => b - a);
+  const { darkMode } = useContext(appContext);
   const classes = useStyles();
   return (
     <>
@@ -35,15 +44,17 @@ const Accord = ({ allData, sem }) => {
                   e.year === year && (
                     <Typography gutterBottom noWrap key={index}>
                       <Link
+                        className={darkMode ? classes.dark : classes.light}
                         variant="body2"
                         href={`./static/${e.course}/${e.semester}/${e.year}/${e.path}`}
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         <PictureAsPdfRoundedIcon
+                          color="error"
                           className={classes.icons}
                           fontSize="small"
-                        />{" "}
+                        />
                         {e.subject}
                       </Link>
                     </Typography>

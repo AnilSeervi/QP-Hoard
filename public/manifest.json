@@ -1,33 +1,30 @@
 {
   "short_name": "QP Hoard",
-  "name": "QP Hoard",
+  "name": "QP Hoard - Question Paper Bank",
   "icons": [
     {
-      "src": "favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icons/logo192.png",
+      "src": "images/icons/logo512.png",
       "type": "image/png",
-      "sizes": "192x192",
+      "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "icons/mask192.png",
+      "src": "images/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/logo192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
-    },
-    {
-      "src": "icons/logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "background_color": "#ffffff",
   "display": "standalone",
+  "catergories": ["education", "books"],
   "scope": "/",
   "theme_color": "#651fff",
   "shortcuts": [
@@ -36,23 +33,58 @@
       "short_name": "BCA Question Papers",
       "description": "Download question papers for BCA",
       "url": "/bca",
-      "icons": [{ "src": "icons/code192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "images/icons/code192.png",
+          "sizes": "192x192",
+          "purpose": "maskable any"
+        }
+      ]
     },
     {
       "name": "BBA",
       "short_name": "BBA Question Papers",
       "description": "Download question papers for BBA",
       "url": "/bba",
-      "icons": [{ "src": "icons/trending192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "images/icons/trending192.png",
+          "sizes": "192x192",
+          "purpose": "maskable any"
+        }
+      ]
     },
     {
       "name": "BCOM",
       "short_name": "BCOM Question Papers",
       "description": "Download question papers for BCOM",
       "url": "/bcom",
-      "icons": [{ "src": "icons/banking192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "images/icons/banking192.png",
+          "sizes": "192x192",
+          "purpose": "maskable any"
+        }
+      ]
     }
   ],
-  "description": "A PWA App to download previous year question papers for undergrads.",
+  "screenshots": [
+    {
+      "src": "images/screenshots/QP-Hoard-light.png",
+      "type": "image/png",
+      "sizes": "500x1002"
+    },
+    {
+      "src": "images/screenshots/QP-Hoard-dark.png",
+      "type": "image/png",
+      "sizes": "500x1002"
+    },
+    {
+      "src": "images/screenshots/QP-Hoard-cont.png",
+      "type": "image/png",
+      "sizes": "500x1002"
+    }
+  ],
+  "description": "Website(PWA) to Download Question Papers for Undergrads. Download Question Papers for BCA, BCOM and BBA.",
   "orientation": "portrait"
 }

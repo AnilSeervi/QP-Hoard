@@ -675,6 +675,13 @@
     {
       "course": "BCA",
       "semester": "semester-6",
+      "year": 2016,
+      "subject": "Theory of Computation",
+      "path": "Theory-of-Computation-2016.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
       "year": 2017,
       "subject": "Web Programming",
       "path": "Web-Programming-2017.pdf"
@@ -692,6 +699,20 @@
       "year": 2019,
       "subject": "Web Programming",
       "path": "Web-Programming-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2016,
+      "subject": "Web Programming",
+      "path": "Web-Programming-2016.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Web Programming",
+      "path": "Web-Programming-2020.pdf"
     }
   ],
   "bba": [

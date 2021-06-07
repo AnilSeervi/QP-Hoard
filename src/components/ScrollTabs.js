@@ -1,10 +1,11 @@
 import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
-import { Container, makeStyles } from "@material-ui/core";
+import { makeStyles } from "@material-ui/core";
+import Container from "@material-ui/core/Container";
 import { useContext } from "react";
-import { valueContext } from "../App";
+import { appContext } from "../App";
 const ScrollTabs = () => {
-  const { value, setValue } = useContext(valueContext);
+  const { value, setValue } = useContext(appContext);
   const useStyles = makeStyles({
     root: {
       display: "flex",

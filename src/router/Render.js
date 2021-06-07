@@ -3,7 +3,7 @@ import TabPanel from "../components/TabPanel";
 
 const Render = ({ data }) => {
   return (
-    <main className="main-cont">
+    <section className="main-cont">
       <TabPanel index={0}>
         <Accord allData={data} sem="semester-1" />
       </TabPanel>
@@ -22,7 +22,7 @@ const Render = ({ data }) => {
       <TabPanel index={5}>
         <Accord allData={data} sem="semester-6" />
       </TabPanel>
-    </main>
+    </section>
   );
 };
 
