@@ -24,7 +24,7 @@
   "start_url": ".",
   "background_color": "#ffffff",
   "display": "standalone",
-  "catergories": ["education", "books"],
+  "categories": ["education", "books"],
   "scope": "/",
   "theme_color": "#651fff",
   "shortcuts": [
