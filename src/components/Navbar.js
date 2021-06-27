@@ -42,7 +42,7 @@ const Navbar = ({ logo }) => {
   const { darkMode, setDarkMode } = useContext(appContext);
   const handleThemeChange = useCallback(() => {
     localStorage.setItem("theme", darkMode ? false : true);
-    setDarkMode(() => !darkMode);
+    setDarkMode((prev) => !prev);
     // eslint-disable-next-line
   }, [darkMode]);
   return (

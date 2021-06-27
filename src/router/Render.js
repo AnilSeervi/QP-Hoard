@@ -1,27 +1,28 @@
 import Accord from "../components/Accord";
 import TabPanel from "../components/TabPanel";
+import SwipeableViews from "react-swipeable-views";
+import { useContext } from "react";
+import { appContext } from "../App";
 
 const Render = ({ data }) => {
+  const { value, setValue } = useContext(appContext);
+  const arr = Array(6).fill(0);
+  const handleIndexChange = (index) => {
+    setValue(index);
+  };
   return (
     <section className="main-cont">
-      <TabPanel index={0}>
-        <Accord allData={data} sem="semester-1" />
-      </TabPanel>
-      <TabPanel index={1}>
-        <Accord allData={data} sem="semester-2" />
-      </TabPanel>
-      <TabPanel index={2}>
-        <Accord allData={data} sem="semester-3" />
-      </TabPanel>
-      <TabPanel index={3}>
-        <Accord allData={data} sem="semester-4" />
-      </TabPanel>
-      <TabPanel index={4}>
-        <Accord allData={data} sem="semester-5" />
-      </TabPanel>
-      <TabPanel index={5}>
-        <Accord allData={data} sem="semester-6" />
-      </TabPanel>
+      <SwipeableViews
+        resistance
+        index={value}
+        onChangeIndex={handleIndexChange}
+      >
+        {arr.map((_, idx) => (
+          <TabPanel index={idx} key={idx}>
+            <Accord allData={data} sem={`semester-${idx + 1}`} />
+          </TabPanel>
+        ))}
+      </SwipeableViews>
     </section>
   );
 };
