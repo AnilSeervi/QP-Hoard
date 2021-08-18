@@ -10,8 +10,10 @@ import Tooltip from "@material-ui/core/Tooltip";
 import ArrowBackIosRoundedIcon from "@material-ui/icons/ArrowBackIosRounded";
 import Brightness4RoundedIcon from "@material-ui/icons/Brightness4Rounded";
 import Brightness7RoundedIcon from "@material-ui/icons/Brightness7Rounded";
+import CloudOffRoundedIcon from "@material-ui/icons/CloudOffRounded";
 import { useCallback, useContext } from "react";
 import { appContext } from "../App";
+import useIsOnline from "../Hooks/useIsOnline";
 const useStyles = makeStyles({
   toolbar: {
     justifyContent: "center",
@@ -34,8 +36,16 @@ const useStyles = makeStyles({
     position: "absolute",
     right: 5,
   },
+  offlinePara: {
+    color: "rgb(255 255 255 / 70%)",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: 10,
+  },
 });
 const Navbar = ({ logo }) => {
+  const onlineStatus = useIsOnline();
   const classes = useStyles();
   const history = useHistory();
   const location = useLocation();
@@ -68,7 +78,10 @@ const Navbar = ({ logo }) => {
           component="h1"
           onClick={() => history.push("/")}
         >
-          <SchoolRoundedIcon className={classes.iconMargin} />
+          <SchoolRoundedIcon
+            fontSize={window.innerWidth <= 768 ? "default" : "large"}
+            className={classes.iconMargin}
+          />
           {logo}
         </Typography>
         <Tooltip
@@ -83,6 +96,12 @@ const Navbar = ({ logo }) => {
           </IconButton>
         </Tooltip>
       </Toolbar>
+      {!onlineStatus ? (
+        <Typography className={classes.offlinePara} align="center" gutterBottom>
+          <CloudOffRoundedIcon />
+          You are browsing offline
+        </Typography>
+      ) : null}
       {location.pathname !== "/" && <ScrollTabs />}
     </AppBar>
   );

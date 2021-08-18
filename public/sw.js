@@ -1,5 +1,5 @@
-const staticCacheName = "site-static-v8";
-const dynamicCacheName = "site-dynamic-v8";
+const staticCacheName = "site-static-v9";
+const dynamicCacheName = "site-dynamic-v9";
 const assets = [
   "/",
   "/index.html",
@@ -17,6 +17,8 @@ const assets = [
   "/images/icons/trending192.png",
   "https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;700&display=swap",
   "https://fonts.gstatic.com/s/worksans/v9/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
+  "https://fonts.gstatic.com/s/worksans/v9/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
+  "https://fonts.gstatic.com/s/worksans/v9/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jpg.woff2",
 ];
 // cache limit function
 const limitCacheSize = (name, size) => {

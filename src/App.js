@@ -1,6 +1,5 @@
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core";
-import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
 import Home from "./router/Home";
 import Navbar from "./components/Navbar";
@@ -11,6 +10,7 @@ import Render from "./router/Render";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import InstallPWA from "./components/InstallPWA";
+import Error from "./router/404";
 
 export const appContext = React.createContext();
 
@@ -78,16 +78,7 @@ function App() {
                   {data && <Render data={data.bcom} />}
                 </Route>
                 <Route path="/bba">{data && <Render data={data.bba} />}</Route>
-                <Route path="*">
-                  <main className="main-cont">
-                    <Typography variant="h5" component="h2">
-                      Page not available
-                    </Typography>
-                    <Typography>
-                      <Link to="/">Back to Homepage...</Link>
-                    </Typography>
-                  </main>
-                </Route>
+                <Route path="*" component={Error} />
               </Switch>
               <InstallPWA />
             </Container>
