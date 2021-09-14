@@ -626,6 +626,13 @@
     {
       "course": "BCA",
       "semester": "semester-6",
+      "year": 2020,
+      "subject": "Computer Application and Information Technology",
+      "path": "Computer-Application-and-Information-Technology-2020.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
       "year": 2017,
       "subject": "Cryptography and Network Security",
       "path": "Cryptography-and-Network-Security-2017.pdf"
