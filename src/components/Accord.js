@@ -47,9 +47,9 @@ const Accord = ({ allData, sem }) => {
                         className={darkMode ? classes.dark : classes.light}
                         variant="body2"
                         href={`./static/${e.course}/${e.semester}/${e.year}/${e.path}`}
-                        // target="_blank"
-                        download={`${e.subject} ${e.year} ${e.semester}`}
-                        // rel="noopener noreferrer"
+                        target="_blank"
+                        // download={`${e.subject} ${e.year} ${e.semester}`}
+                        rel="noopener noreferrer"
                       >
                         <PictureAsPdfRoundedIcon
                           color="error"

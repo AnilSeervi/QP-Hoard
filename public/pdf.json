@@ -7,7 +7,35 @@
       "subject": "System Programming",
       "path": "System-Programming-2020.pdf"
     },
-        {
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Theory of Computation",
+      "path": "Theory-of-Computation-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2018,
+      "subject": "Theory of Computation",
+      "path": "Theory-of-Computation-2018.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2019,
+      "subject": "Computer Applications and Information Technology",
+      "path": "Computer-Applications-and-Information-Technology-2019.pdf"
+    },
+    {
+      "course": "BCA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Cryptography and Network Security",
+      "path": "Cryptography-and-Network-Security-2020.pdf"
+    },
+    {
       "course": "BCA",
       "semester": "semester-6",
       "year": 2020,

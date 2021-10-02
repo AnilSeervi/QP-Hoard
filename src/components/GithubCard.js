@@ -18,6 +18,9 @@ const useStyles = makeStyles({
     maxWidth: 350,
     margin: "1rem auto",
   },
+  image: {
+    minHeight: 100,
+  },
 });
 
 const GithubCard = () => {
@@ -48,10 +51,11 @@ const GithubCard = () => {
         subheader="Github"
       />
       <CardMedia
+        component="img"
+        className={classes.image}
+        alt="GitHub Repo Stats"
         title="Repo Stats"
-        children={
-          <img width="100%" height="100%" src={uri} alt="Github Repo Stats" />
-        }
+        src={uri}
       />
       <CardContent>
         <Typography color="textSecondary" variant="body2">
