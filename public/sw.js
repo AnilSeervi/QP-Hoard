@@ -1,5 +1,5 @@
-const staticCacheName = "site-static-v12";
-const dynamicCacheName = "site-dynamic-v12";
+const staticCacheName = "site-static-v13";
+const dynamicCacheName = "site-dynamic-v13";
 const assets = [
   "/",
   "/index.html",
@@ -16,9 +16,6 @@ const assets = [
   "/images/icons/code192.png",
   "/images/icons/trending192.png",
   "https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;700&display=swap",
-  "https://fonts.gstatic.com/s/worksans/v9/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
-  "https://fonts.gstatic.com/s/worksans/v9/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2",
-  "https://fonts.gstatic.com/s/worksans/v9/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jpg.woff2",
 ];
 // cache limit function
 const limitCacheSize = (name, size) => {
@@ -51,17 +48,18 @@ self.addEventListener("activate", (evt) => {
       );
     })
   );
+  clients.claim();
 });
 //fetch events
 self.addEventListener("fetch", (evt) => {
+  if (/^chrome\-extension/.test(evt.request.url)) return;
   evt.respondWith(
     caches.match(evt.request).then((cacheRes) => {
       return (
         cacheRes ||
         fetch(evt.request).then(async (fetchRes) => {
           const cache = await caches.open(dynamicCacheName);
-          if (evt.request.url.indexOf("http") !== -1)
-            cache.put(evt.request.url, fetchRes.clone());
+          cache.put(evt.request.url, fetchRes.clone());
           limitCacheSize(dynamicCacheName, 30);
           return fetchRes;
         })

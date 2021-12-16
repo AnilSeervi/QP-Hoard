@@ -1,4 +1,6 @@
 {
+  "dir": "ltr",
+  "lang": "en-US",
   "short_name": "QP Hoard",
   "name": "QP Hoard - Question Paper Bank",
   "icons": [
@@ -21,7 +23,8 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
+  "id": "/",
   "background_color": "#ffffff",
   "display": "standalone",
   "categories": ["education", "books"],
@@ -72,19 +75,22 @@
     {
       "src": "images/screenshots/QP-Hoard-light.png",
       "type": "image/png",
-      "sizes": "500x1002"
+      "sizes": "500x1002",
+      "label": "QP Hoard Homescreen: Light Mode"
     },
     {
       "src": "images/screenshots/QP-Hoard-dark.png",
       "type": "image/png",
-      "sizes": "500x1002"
+      "sizes": "500x1002",
+      "label": "QP Hoard Homescreen: Dark Mode"
     },
     {
       "src": "images/screenshots/QP-Hoard-cont.png",
       "type": "image/png",
-      "sizes": "500x1002"
+      "sizes": "500x1002",
+      "label": "QP Hoard Question Paper download"
     }
   ],
   "description": "Website(PWA) to Download Question Papers for Undergrads. Download Question Papers for BCA, BCOM and BBA.",
-  "orientation": "portrait"
+  "orientation": "any"
 }

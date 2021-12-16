@@ -1674,6 +1674,62 @@
       "year": 2019,
       "subject": "All Papers",
       "path": "All-Papers-2019.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Brand Management",
+      "path": "Brand-Management-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "E Business",
+      "path": "E-Business-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Income Tax",
+      "path": "Income-Tax-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "International Business",
+      "path": "International-Business-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "International Finance",
+      "path": "International-Finance-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Retail Management",
+      "path": "Retail-Management-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Stock and Commodity Markets",
+      "path": "Stock-and-Commodity-Markets-2020.pdf"
+    },
+    {
+      "course": "BBA",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Strategic Management",
+      "path": "Strategic-Management-2020.pdf"
     }
   ],
   "bcom": [
@@ -2740,6 +2796,62 @@
       "year": 2019,
       "subject": "Performance Management",
       "path": "Performance-Management-2019.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Business Regulations",
+      "path": "Business-Regulations-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Business Taxation",
+      "path": "Business-Taxation-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Cost Management",
+      "path": "Cost-Management-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Income Tax II",
+      "path": "Income-Tax-II-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "International Auditing and Assurance",
+      "path": "International-Auditing-and-Assurance-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Management Accounting",
+      "path": "Management-Accounting-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Performance Management",
+      "path": "Performance-Management-2020.pdf"
+    },
+    {
+      "course": "BCOM",
+      "semester": "semester-6",
+      "year": 2020,
+      "subject": "Principles and Practice of Auditing",
+      "path": "Principles-and-Practice-of-Auditing-2020.pdf"
     }
   ]
 }

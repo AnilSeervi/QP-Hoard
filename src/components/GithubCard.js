@@ -50,13 +50,15 @@ const GithubCard = () => {
         title="QP-Hoard"
         subheader="Github"
       />
-      <CardMedia
-        component="img"
-        className={classes.image}
-        alt="GitHub Repo Stats"
-        title="Repo Stats"
-        src={uri}
-      />
+      <a href={repoLink} target="_blank" rel="noopener noreferrer">
+        <CardMedia
+          component="img"
+          className={classes.image}
+          alt="GitHub Repo Stats"
+          title="Repo Stats"
+          src={uri}
+        />
+      </a>
       <CardContent>
         <Typography color="textSecondary" variant="body2">
           Want to contribute to the app? Head over to Github to find more how.
