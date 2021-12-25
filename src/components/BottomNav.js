@@ -5,7 +5,7 @@ import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import CodeIcon from "@material-ui/icons/Code";
 import TrendingUpIcon from "@material-ui/icons/TrendingUp";
 import AccountBalanceIcon from "@material-ui/icons/AccountBalance";
-import { useHistory, useLocation } from "react-router";
+import { useNavigate, useLocation } from "react-router";
 import { appContext } from "../App";
 const useStyles = makeStyles({
   botnav: {
@@ -18,7 +18,7 @@ const BottomNav = () => {
   const [value, setValue] = useState(null);
   const { logo, setLogo, darkMode } = useContext(appContext);
   const classes = useStyles();
-  const history = useHistory();
+  const navigate = useNavigate();
   const location = useLocation();
   const navTheme = useMemo(
     () =>
@@ -73,17 +73,17 @@ const BottomNav = () => {
         >
           <BottomNavigationAction
             label="BBA"
-            onClick={() => history.push("/bba")}
+            onClick={() => navigate("/bba")}
             icon={<TrendingUpIcon fontSize="small" />}
           ></BottomNavigationAction>
           <BottomNavigationAction
-            onClick={() => history.push("/bca")}
+            onClick={() => navigate("/bca")}
             label="BCA"
             icon={<CodeIcon fontSize="small" />}
           ></BottomNavigationAction>
           <BottomNavigationAction
             label="BCOM"
-            onClick={() => history.push("/bcom")}
+            onClick={() => navigate("/bcom")}
             icon={<AccountBalanceIcon fontSize="small" />}
           ></BottomNavigationAction>
         </BottomNavigation>

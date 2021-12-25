@@ -26,12 +26,21 @@ const Home = () => {
         <abbr title="Progressive Web App">
           <strong>PWA</strong>
         </abbr>{" "}
-        Serving Question Papers for Undergrads of <em>BCA</em>, <em>BBA</em> and{" "}
-        <em>BCOM</em>.
+        Serving previous years Question Papers for Undergrads of <em>BCA</em>,{" "}
+        <em>BBA</em> and <em>BCOM</em>.
       </Typography>
       <Typography align="center">
-        A PWA is a Web Application that you can install directly to your device
-        from the Browser itself.
+        <Link
+          href="https://en.wikipedia.org/wiki/Progressive_web_application"
+          target="_blank"
+          rel="noopener noreferrer"
+          color="textPrimary"
+          underline="always"
+        >
+          PWA
+        </Link>{" "}
+        is a Web Application that you can install directly to your device from
+        the Browser itself.
       </Typography>
       <GithubCard />
       <Typography className="foot" variant="caption" color="textSecondary">

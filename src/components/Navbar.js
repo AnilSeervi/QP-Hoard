@@ -4,7 +4,7 @@ import Toolbar from "@material-ui/core/Toolbar";
 import { makeStyles } from "@material-ui/core/styles";
 import SchoolRoundedIcon from "@material-ui/icons/SchoolRounded";
 import ScrollTabs from "./ScrollTabs";
-import { useHistory, useLocation } from "react-router";
+import { useNavigate, useLocation } from "react-router";
 import IconButton from "@material-ui/core/IconButton";
 import Tooltip from "@material-ui/core/Tooltip";
 import ArrowBackIosRoundedIcon from "@material-ui/icons/ArrowBackIosRounded";
@@ -47,7 +47,7 @@ const useStyles = makeStyles({
 const Navbar = ({ logo }) => {
   const onlineStatus = useIsOnline();
   const classes = useStyles();
-  const history = useHistory();
+  const navigate = useNavigate();
   const location = useLocation();
   const { darkMode, setDarkMode } = useContext(appContext);
   const handleThemeChange = useCallback(() => {
@@ -66,7 +66,7 @@ const Navbar = ({ logo }) => {
             placement="right"
             className={classes.left}
           >
-            <IconButton onClick={() => history.goBack()}>
+            <IconButton onClick={() => navigate(-1)}>
               <ArrowBackIosRoundedIcon fontSize="small" color="secondary" />
             </IconButton>
           </Tooltip>
@@ -76,7 +76,7 @@ const Navbar = ({ logo }) => {
           className={classes.h1Style}
           color="secondary"
           component="h1"
-          onClick={() => history.push("/")}
+          onClick={() => navigate("/")}
         >
           <SchoolRoundedIcon
             fontSize={window.innerWidth <= 768 ? "default" : "large"}

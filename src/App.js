@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core";
 import Container from "@material-ui/core/Container";
 import Home from "./router/Home";
@@ -69,17 +69,22 @@ function App() {
           <Navbar logo={logo} />
           <main>
             <Container fixed>
-              <Switch>
-                <Route exact path="/">
-                  <Home />
-                </Route>
-                <Route path="/bca">{data && <Render data={data.bca} />}</Route>
-                <Route path="/bcom">
-                  {data && <Render data={data.bcom} />}
-                </Route>
-                <Route path="/bba">{data && <Render data={data.bba} />}</Route>
-                <Route path="*" component={Error} />
-              </Switch>
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route
+                  path="/bca"
+                  element={data && <Render data={data.bca} />}
+                />
+                <Route
+                  path="/bcom"
+                  element={data && <Render data={data.bcom} />}
+                />
+                <Route
+                  path="/bba"
+                  element={data && <Render data={data.bba} />}
+                />
+                <Route path="*" element={<Error />} />
+              </Routes>
               <InstallPWA />
             </Container>
           </main>
